@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "499136047375",
+    "firebase_url": "https://goldencompass-6b13f.firebaseio.com",
+    "project_id": "goldencompass-6b13f",
+    "storage_bucket": "goldencompass-6b13f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499136047375:android:c26c9919b614bf18",
+        "android_client_info": {
+          "package_name": "com.inc.mountzoft.goldencompass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499136047375-d2pmeqg2j79595qcsebdlae8fsd30t2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inc.mountzoft.goldencompass",
+            "certificate_hash": "26d302a211f431ec2fcbb747fcc97f92aa99071f"
+          }
+        },
+        {
+          "client_id": "499136047375-hspo22co5hg80dbijbqnmcb4dqgqcqrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inc.mountzoft.goldencompass",
+            "certificate_hash": "15599d76ee4ad584647a30870631e2911db4d80f"
+          }
+        },
+        {
+          "client_id": "499136047375-7ugoalvs92epf7a62lprcmsi1mghf6tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChVSDHTLuf8Oz6HVV8IE1ZC1v7nSIWzNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499136047375-7ugoalvs92epf7a62lprcmsi1mghf6tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
